@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1YUQt4Nhqb2GN17BcQ_qmRlUZGUTpkBSq/edit?gid=1059444204#gid=1059444204
+https://docs.google.com/spreadsheets/d/1xYJ6FYQYxiOYMl0SYdAaI9YeMaZb1B0Le3wXCF55JO0/edit?usp=sharing
 ## 😊 รายละเอียดงานดูแลระบบ
 1. ระบบ HRMS
 ระบบบริหารงานบุคคล ใช้ในการจัดการข้อมูลพนักงาน การลา การทำงานล่วงเวลา และสวัสดิการต่าง ๆ
